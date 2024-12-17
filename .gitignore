@@ -1,0 +1,3 @@
+# Ignore Eclipse metadata and logs 
+.metadata/ 
+*.log 
